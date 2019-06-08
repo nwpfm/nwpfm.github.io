@@ -1358,3 +1358,13 @@ section
 	color: #bbbbbb;
 	margin-top: 7px;
 }
+
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #cecfd5;
+  padding: 10px 15px;
+}
+
